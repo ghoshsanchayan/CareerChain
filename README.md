@@ -4,7 +4,7 @@
 
 ---
 
-![Uploading Screenshot 2025-10-29 at 2.08.54 PM.png…]()
+<img width="1470" height="956" alt="Screenshot 2025-10-29 at 2 08 54 PM" src="https://github.com/user-attachments/assets/ce01d22d-c148-489e-9e8b-672f5cc573a1" />
 
 ## Project Description
 
